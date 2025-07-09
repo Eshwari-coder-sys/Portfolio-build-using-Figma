@@ -9,9 +9,8 @@ This site showcases my skills, education, projects, and contact information in a
 
 - **Name:** Eshwari R
 - **Designed in:** [Figma](https://www.figma.com/)
-- **Built with:** HTML5, CSS3, JavaScript
+
 - **Features:**
-  - Responsive design
   - Animated UI elements
   - Project gallery
   - Contact form with validation
@@ -19,12 +18,6 @@ This site showcases my skills, education, projects, and contact information in a
 
 
 ## 🛠️ Technologies Used
-
-| Frontend | Tools Used     |
-|----------|----------------|
-| HTML5    | Semantic layout |
-| CSS3     | Responsive design, custom fonts |
-| JS       | Form validation, DOM interaction |
 | Figma    | UI/UX Prototyping & Design |
 
 ## 📸 Screenshots
@@ -34,7 +27,7 @@ This site showcases my skills, education, projects, and contact information in a
 
 ## 🧠 Inspiration
 
-This portfolio was conceptualized and prototyped in Figma with the goal of reflecting my personality as a **UI/UX Designer & Developer**. The entire layout—from services to projects and contact details—is user-friendly and mobile responsive.
+This portfolio was conceptualized and prototyped in Figma with the goal of reflecting my personality as a **UI/UX Designer & Developer**. The entire layout—from services to projects and contact details—is user-friendly.
 
 ## 📬 Contact Me
 
@@ -50,7 +43,7 @@ Pull requests are welcome. If you see room for improvement, feel free to fork an
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source
 
 ---
 
