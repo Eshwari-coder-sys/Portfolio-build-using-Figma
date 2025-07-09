@@ -1,5 +1,5 @@
 # Portfolio Website built using Figma
-# LINK TO SHOW PROTOTYPE - https://projects.animaapp.com/?mode=code&layer=28%3A28&utm_source=copylink
+# LINK TO SHOW PROTOTYPE - https://www.figma.com/design/lK7bakwGGVMh4XaGhG3O3c/My-Portfolio-website?node-id=28-20&t=KjYNLdnQi38XKY6j-1
 # 💼 My Portfolio Website
 
 Welcome to my personal portfolio website! 🎨  
